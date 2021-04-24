@@ -87,7 +87,7 @@ $ zip -r APELLIDO.NOMBRE.zip .
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
-Conceptos
+## Conceptos
 
 1. ¿Qué es encapsulamiento? ¿Qué ventajas ofrece?
 
@@ -101,7 +101,14 @@ Se refiere a que, en un objeto, sus atributos privados pueden ser únicamente mo
 
 Para ocultar el diseño de almacenamiento físico de los datos, haciendo esto te aseguras de que si algún diseño fuese modificado, afecte únicamente a un subconjunto del programa total. La ocultación es implementada en java a través de los modificadores de acceso.
 
-Memoria
+## Memoria
 
-Mirar archivo pdf Mapa de memoria
-![image](https://user-images.githubusercontent.com/78180409/110183225-67a3d780-7ddc-11eb-8ed2-5fb1021533df.png)
+ Mirar archivo pdf Mapa de memoria
+ ![image](https://user-images.githubusercontent.com/78180409/110183225-67a3d780-7ddc-11eb-8ed2-5fb1021533df.png)
+
+## Diagrama UML
+
+ ![](POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/img/UML.png)
+
+ ## Diseño
+ ![](POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/img/Diseño.png)
