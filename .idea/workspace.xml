@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05180757-33f6-4b19-9749-60ab0bc0b6a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/Iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/Iteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/SabanaResearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/SabanaResearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/Summary.java" beforeDir="false" afterPath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/main/java/entities/Summary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/test/java/SabanaResearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11/src/test/java/SabanaResearchTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pMIGwx4X05HjnchdcwdqmqdS11" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Gradle.SabanaResearchTest.shouldCountOpenActivities">
+    <configuration name="SabanaResearchTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SabanaResearchTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SabanaResearchTest.shouldCountClosedActivities" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SabanaResearchTest.shouldCountClosedActivities&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SabanaResearchTest.shouldCountOpenActivities" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SabanaResearchTest.shouldCountOpenActivities&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SabanaResearchTest.shuldCreateSummaryForOpenProjects" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/POOB-TEST-FIRST-SABANA-RESEARCH-1.4.11" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SabanaResearchTest.shuldCreateSummaryForOpenProjects&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SabanaResearchTest.shouldCountOpenActivities" />
+        <item itemvalue="Gradle.SabanaResearchTest" />
+        <item itemvalue="Gradle.SabanaResearchTest.shouldCountClosedActivities" />
+        <item itemvalue="Gradle.SabanaResearchTest.shuldCreateSummaryForOpenProjects" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05180757-33f6-4b19-9749-60ab0bc0b6a8" name="Default Changelist" comment="" />
+      <created>1614986443116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614986443116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614986551683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614986551683" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1615593414618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615593414618" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1615593414618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615593414618" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1615593414617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615593414617" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1615593414618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615593414618" />
+  </component>
+</project>
